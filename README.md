@@ -1,5 +1,5 @@
 # Hi 👋 
-# My name is Priyanshu Prajapati
+My name is Priyanshu Prajapati
 
 ## Aspiring Software Engineer | Web Developer | Automation Enthusiast
 
