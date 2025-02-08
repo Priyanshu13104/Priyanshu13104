@@ -3,7 +3,7 @@
 ## Aspiring Software Engineer | Web Developer | Automation Enthusiast
 
 - 🌍 Vadodara, Gujarat
-- 📂 See my portfolio at [priyanshuprajapati.me](http://priyanshuprajapati.me)
+- 📂 See my portfolio at [Portfolio](http://priyanshuprajapati.me)
 - 📫 You can contact me at priyanshuprajapati13@gmail.com
 - 💡 I’m constantly learning new technologies and expanding my expertise in web development.
 
